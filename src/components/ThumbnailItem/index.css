@@ -1,0 +1,11 @@
+/* Write your code here. */
+
+.thubnail-con {
+  display: flex;
+  flex-direction: row;
+}
+
+.btn {
+  opacity: 1;
+  margin: 3px;
+}
